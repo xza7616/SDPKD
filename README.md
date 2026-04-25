@@ -1,4 +1,4 @@
-# PDF
+# SDPKD
 This is the official repository for our paper, "Distilling Structural Knowledge from Prompts: A Self-Derived Prompt-Guided Knowledge Distillation Network for Underwater Semantic Segmentation"
 # Architecture and Details
 <img width="1508" height="1022" alt="image" src="https://github.com/user-attachments/assets/d030a651-93fa-4a35-83fb-d5f31cd76ab4" />
